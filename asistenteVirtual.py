@@ -19,6 +19,14 @@ comandos = {
     'regresar': 'ctrl+y',
     'selecionar todo': 'ctrl+a',
     'captura de pantalla': 'shift+windows+s',
+    'imprimir': 'ctrl+p',
+    'negrita': 'ctrl+b',
+    'cursiva': 'ctrl+i',
+    'subrayar': 'ctrl+u',
+    'centrar texto': 'ctrl+e',
+    'alinear a la izquierda': 'ctrl+l',
+    'alinear a la derecha': 'ctrl+r',    
+    '': '',
 }
 
 # Ruta de sonidos
