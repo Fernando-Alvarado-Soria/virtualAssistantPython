@@ -1,5 +1,6 @@
-SpeechRecognition==3.10.0
-keyboard==0.13.5
-pygame==2.5.2
-sounddevice==0.4.6
-soundfile==0.12.1
+#instalar estas librerias manualmente pip install "nombre de la libreria"
+SpeechRecognition
+keyboard
+pygame
+sounddevice
+soundfile
