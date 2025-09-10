@@ -12,7 +12,6 @@ pygame.mixer.init()
 
 # Mapeo de comandos de voz a atajos de teclado
 comandos = {
-    'copiar': 'ctrl+c',
     'pegar': 'ctrl+v',
     'cortar': 'ctrl+x',
     'guardar': 'ctrl+s',
