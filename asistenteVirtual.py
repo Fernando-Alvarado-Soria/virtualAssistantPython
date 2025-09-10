@@ -7,6 +7,7 @@ import soundfile as sf
 import tempfile
 
 # Inicializar pygame mixer una sola vez 
+#Esto es un comentario
 pygame.mixer.init()
 
 # Mapeo de comandos de voz a atajos de teclado
